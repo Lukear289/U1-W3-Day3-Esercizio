@@ -25,4 +25,5 @@ li {
 input {
   border-radius: 10px;
   width: 350px;
+  text-align: center;
 }
