@@ -1,0 +1,28 @@
+body {
+  background-image: url(../image/imagesfondo.jpg);
+}
+form {
+  text-align: center;
+}
+section {
+  font-weight: bold;
+}
+button {
+  margin-top: 3em;
+  border-radius: 7px;
+  text-align: center;
+
+  height: 40px;
+  width: 100px;
+}
+#sport {
+  margin-top: 2.5em;
+}
+li {
+  text-align: left;
+  margin-left: 2.5em;
+}
+input {
+  border-radius: 10px;
+  width: 350px;
+}
